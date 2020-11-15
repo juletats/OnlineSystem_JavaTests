@@ -1,0 +1,8 @@
+JsonForm.class
+amqp\tut1\RabbitAmqpTutorialsRunner.class
+amqp\tut1\Tut1\Tut1Config.class
+Numbers.class
+Program.class
+amqp\tut1\Tut1\Tut1Sender.class
+amqp\tut1\Tut1\Tut1Receiver.class
+amqp\tut1\RabbitAmqpTutorialsApplication.class
